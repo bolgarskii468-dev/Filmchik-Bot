@@ -1,0 +1,67 @@
+{
+    "films": [
+        {
+            "name": "Один дома",
+            "description": "Кевін, випадково залишений удома на Різдво, мусить самостійно протистояти двом невдалим грабіжникам. Використовуючи кмітливість і пастки, він перетворює дім на справжнє поле бою.",
+            "rating": "9.6",
+            "genre": "Комедія",
+            "year": "1990",
+            "actors": [
+                "Macaulay Culkin",
+                "Joe Pesci",
+                "Daniel Stern",
+                "John Heard",
+                "Catherine O'Hara",
+                "Roberts Blossom",
+                "Devin Ratray",
+                "Michael C. Maronna",
+                "Hillary Wolf",
+                "Gerry Bamman"
+            ],
+            "poster": "https://tse4.mm.bing.net/th/id/OIP.fieF3wAlTl1Y_TV0f_UzBwAAAA?cb=ucfimg2&ucfimg=1&w=370&h=370&rs=1&pid=ImgDetMain&o=7&rm=3",
+            "video": "https://drive.google.com/uc?export=download&id=1BvYNHE7M5q2deoFB3ccDEtXIPre5W-7V\n",
+            "id": 0
+        },
+        {
+            "name": "Монстри на канікулах",
+            "description": "Монстри на канікулах»  — це веселий анімаційний фільм про готель, яким керує граф Дракула, створений спеціально для монстрів, щоб вони могли відпочити подалі від людей. Спокій порушується, коли до готелю випадково потрапляє звичайний хлопець, а Дракулова дочка Мейвіс закохується в нього, що призводить до кумедних пригод і хаосу",
+            "rating": "8.4",
+            "genre": "Comedy-Fantasy-Animation",
+            "year": "2012",
+            "actors": [
+                "Adam Sandler",
+                "Selena Gomez",
+                "Andy Samberg",
+                "Kevin James",
+                "Steve Buscemi",
+                "David Spade",
+                "Fran Drescher",
+                "Molly Shannon",
+                "CeeLo Green",
+                "Jon Lovitz"
+            ],
+            "poster": "https://th.bing.com/th/id/OIP.2CuCK3nDH8Kgh3H3IhL6OQHaLE?w=203&h=304&c=7&r=0&o=7&cb=ucfimg2&pid=1.7&rm=3&ucfimg=1",
+            "video": "https://drive.google.com/uc?export=download&id=1sZhJHBWUjAnIEHRaVilc4CnVRbOnJOLI\n",
+            "id": 1
+        },
+        {
+            "name": "Один дома 2",
+            "description": "test",
+            "rating": "8.9",
+            "genre": "Комедія",
+            "year": "1992",
+            "actors": [
+                "Маколей Калкін",
+                "Джо Пеші",
+                "Деніел Стерн",
+                "Кетрін О’Гара",
+                "Джон Гірд",
+                "Тім Каррі",
+                "Бренда Фрікер."
+            ],
+            "poster": "https://tse2.mm.bing.net/th/id/OIP.8YvoFyIIae-uaKaUKx48oQHaLB?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+            "video": "https://drive.google.com/uc?export=download&id=1OvzlOXRbKQB5fzI0IlIpASZiZhr7YuK4",
+            "id": 2
+        }
+    ]
+}
